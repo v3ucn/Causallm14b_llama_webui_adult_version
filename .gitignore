@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.bin
+*.gguf
+*.srt
+*.mp4
+*.wav
+*.mb
+*.exe
+*.msi
+.locks
+venv/
+ckpt-0.data-00000-of-00001
+ckpt-0.meta
+tokenizer.json
+*.model
+
+
